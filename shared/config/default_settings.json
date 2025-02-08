@@ -1,0 +1,10 @@
+{
+    "idol_name": "Virtual Idol Nova",
+    "initial_skillset": {
+        "performance": 7,
+        "stage_presence": 6,
+        "interaction": 5
+    },
+    "max_audience_feedback": 100,
+    "feedback_processing_interval": 10
+}
