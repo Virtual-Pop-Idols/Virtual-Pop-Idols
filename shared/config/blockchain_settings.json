@@ -1,0 +1,9 @@
+{
+    "network": "Ethereum",
+    "contract_address": "0x123456789abcdef123456789abcdef12345678",
+    "token_symbol": "IDOL",
+    "buyback_mechanism_enabled": true,
+    "buyback_interval_days": 30,
+    "burn_percentage_per_buyback": 10,
+    "rpc_url": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID"
+}
