@@ -1,0 +1,6 @@
+# requirements.txt - Python dependencies for Virtual Pop Idols AI project
+
+numpy==1.21.2
+torch==1.9.0
+transformers==4.9.2
+jsonschema==3.2.0
